@@ -1,0 +1,24 @@
+move 100
+turn 90
+pen down
+move 70
+turn 135
+move 50
+turn 15
+pen up
+move 100
+turn 45
+pen down
+move 70
+pen up
+turn 120
+move 60
+pen down
+move 80
+turn 90
+pen up
+move 40
+pen down
+turn 40
+move 50
+
