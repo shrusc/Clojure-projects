@@ -1,10 +1,11 @@
-# assignment4
+# SinglePageApp
 
-FIXME: Write a one-line description of your library/project.
+A graphic drawing program using Reagent, ClojureScript, and big ratom.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+The program displays a drawing area, a palette to select a drawing mode, and undo button in a
+web browser.It supports drawing lines, circles and rectangles.
 
 ## Setup
 
